@@ -1,4 +1,6 @@
-
+    <div id="pagination-controls" class="z-10 flex justify-center gap-2 mt-4 items-center">
+            <!-- Buttons will be generated here -->
+        </div>
 let currentPage = 1;
 const rowsPerPage = 4;
 // renderData()-----------------------------------------------
